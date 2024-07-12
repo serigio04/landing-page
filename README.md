@@ -11,3 +11,9 @@ disenio en figma = "https://www.figma.com/design/3AUrbhhcWHs6V1SNragfLr/Landing-
 * * books
 * * boxes
 * contact us
+
+# home
+* banner
+* some books
+* some figures
+* some mangas
