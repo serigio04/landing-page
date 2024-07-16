@@ -1,9 +1,10 @@
 import './App.css';
+import Nav from './components/header/nav/nav';
 
 function App() {
   return (
-    <h1>Hola mundo</h1>
-  );
+    <Nav />
+  )
 }
 
 export default App;
