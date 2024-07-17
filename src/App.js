@@ -1,9 +1,9 @@
 import './App.css';
-import Nav from './components/header/nav/nav';
+import Header from './components/header';
 
 function App() {
   return (
-    <Nav />
+    <Header />
   )
 }
 
